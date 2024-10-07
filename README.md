@@ -1,16 +1,13 @@
 # minimal_weather_app
 
-A new Flutter project.
+A Flutter Weather App.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow de steps: 
 
-A few resources to get you started if this is your first Flutter project:
+- Create your API KEY in https://openweathermap.org/api
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-Go to lib/pages/weather_page.dart and paste the api key
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Enjoy.
