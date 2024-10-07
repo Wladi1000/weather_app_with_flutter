@@ -8,6 +8,6 @@ Follow de steps:
 
 - Create your API KEY in https://openweathermap.org/api
 
--Go to lib/pages/weather_page.dart and paste the api key
+- Go to lib/pages/weather_page.dart and paste the api key
 
--Enjoy.
+- Enjoy.
